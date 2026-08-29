@@ -1,35 +1,18 @@
-# Manoj Pothula
+# 💫 About Me:
+Iam currently persuing my Btech in cse branch in rajov gandhi university of knowledge technollgies 
 
-Software engineer — Java backend & full-stack development | Data Structures & Algorithms
 
-Hello — I’m Manoj. I build backend services and implement data structures and algorithms using Java and C++. I focus on building maintainable, well-tested backend systems and clean code. I’m pursuing software-engineering roles that involve backend services, APIs, and system design.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Manoj Kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.manoj___999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manoj Pothula) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Manoj Pothula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojpothula350@gmail.com) 
 
-About
-- Open to: Java backend roles, full-stack roles, internships and placement opportunities  
-- Contact: (LinkedIn URL placeholder) · (email placeholder)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=manojpothula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=manojpothula&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manojpothula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Tech stack (based on my public repositories)
-- Languages: C++, Java
-- Frontend: HTML, CSS, JavaScript
-- Backend / Deployment: Flask (used to host a demo/registration page in the repo)
-- ORM / Persistence: Hibernate
-- Database: MySQL
-- Testing: JUnit
-- Build Tool: Maven
-- DSA: Data Structures & Algorithms, Problem Solving
-- Tools: Git, GitHub
+---
+[![](https://komarev.com/ghpvc/?username=manojpothula&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Featured projects (pinned suggestions)
-- data-structures-cpp — Data structures and algorithm solutions in C++ (https://github.com/manojpothula/Data_Structures)  
-- java-backend-sample — Java backend examples with Hibernate and unit tests (https://github.com/manojpothula/Java_Backend)  
-- flask-sample-app — Flask web application serving an HTML registration form (https://github.com/manojpothula/My--flask--project)  
-- portfolio — curated portfolio index linking key projects (https://github.com/manojpothula/Projects)
-
-How to evaluate my work
-- Start with the portfolio repo for a curated overview and links.
-- For backend systems, open java-backend-sample and follow the README run instructions.
-- For algorithms, open data-structures-cpp and explore topic folders.
-
-Notes
-- The tech stack lists technologies that appear in my public repositories; I do not claim expertise beyond what is shown in the code and docs.
-- I prefer a clean, minimal presentation without excessive badges or animations.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
